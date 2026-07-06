@@ -182,17 +182,19 @@ main {
   }
 
   main {
-    width: 100%;
+    width: 100rem;
     max-width: 420px;
-    height: auto;
+    height: 60rem;
     display: flex;
     flex-direction: column;
     padding: 2rem 0 10rem;
   }
 
   .player {
-    padding: 3rem 2rem;
+    padding: 3rem 1.5rem;
   }
+
+  
 
   .name {
     font-size: 3rem;
